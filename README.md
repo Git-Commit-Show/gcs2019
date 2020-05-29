@@ -103,3 +103,7 @@ Moments of relaxation during the long 2-day conference
 **Live Painting**
 
 **Live Music Band Performance**
+
+### Contributors
+
+[All contributors info](http://bit.ly/gcscontributors)
