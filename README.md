@@ -1,6 +1,6 @@
 # Information - Git Commit Show 2019 (#GCS2019)
 
-This conference was organized on Jun 22-23, 2019 in a **completely online and interactive format**. 
+This conference was organized on **Jun 22-23, 2019** in a **completely online and interactive format**. 
 First time this kind of 2-day developer conference was organized in the world. 
 
 ![Banner Image](https://github.com/Git-Commit-Show/gcs2019/raw/master/linkedin_banner.png "GCS2019 Banner")
