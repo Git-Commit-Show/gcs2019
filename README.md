@@ -3,7 +3,7 @@
 This conference was organized on Jun 22-23, 2019 in a **completely online and interactive format**. 
 First time this kind of 2-day developer conference was organized in the world. 
 
-![Banner Image](/linkedin_banner.jpg)
+![Banner Image](./linkedin_banner.jpg "GCS2019 Banner")
 
 We are working on uploading the recordings, might take some time.
 
