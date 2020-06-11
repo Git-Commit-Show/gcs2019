@@ -82,6 +82,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Akhil Sai Ram Chennareddy from India
 
 * [Glimpses of demo presented](https://youtu.be/rtP8RmoAaCw)
+* [Full recording of this showcase](https://www.youtube.com/watch?v=LRu5v7FeJMg)
 
 
 **How I created an autonomous cleaning robot**
