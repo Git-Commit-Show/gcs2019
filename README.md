@@ -56,12 +56,13 @@ Designing scalable architecture covering evolution of the business and maintaini
 Imagine a blind and deaf man running marathon, learn how it was made possible through haptic tech
 
 
-**Getting started with machine learning**
+**Get started with machine learning**
 
 > by Sandeep Giri, AI advisor at CloudxLab
 
 Listen to a popular AI teacher showcase amazing capabilities we have achieved in AI/ML and guide you to kickstart your journey of learning AI
 
+* [Link to complete recording](https://www.youtube.com/watch?v=0TvA0B2Jx3k)
 
 
 ### Live Breakthrough Showcase Session
