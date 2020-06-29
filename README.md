@@ -18,6 +18,7 @@ Learn directly from master via interactive live talk
 
 Listen to Google AI product manager how AI is being used to impact our day to day life
 
+* [Link to full recording](https://youtu.be/BT7eMIZSxy4)
 
 **Raspberry pi for beginners**
 
@@ -32,7 +33,7 @@ Learn how to program the microcomputer, Raspberry Pi using python
 
 Listen to author of curl talk about how curl came to be the most widely used software
 
-* [Link to complete recording](https://youtu.be/oYP7W1gXzsI)
+* [Link to full recording](https://youtu.be/oYP7W1gXzsI)
 
 
 **Deploying faster with Docker and Kubernetes**
@@ -48,6 +49,7 @@ Introduction to docker for beginners followed by best practices for writing a Do
 
 Designing scalable architecture covering evolution of the business and maintaining high performance engineering
 
+* [Link to full recording](https://youtu.be/E2BH9a_Hgh4)
 
 **World through touch**
 
@@ -55,6 +57,7 @@ Designing scalable architecture covering evolution of the business and maintaini
 
 Imagine a blind and deaf man running marathon, learn how it was made possible through haptic tech
 
+* [Link to full recording](https://youtu.be/HpsgqvK8W7E)
 
 **Get started with machine learning**
 
@@ -62,7 +65,7 @@ Imagine a blind and deaf man running marathon, learn how it was made possible th
 
 Listen to a popular AI teacher showcase amazing capabilities we have achieved in AI/ML and guide you to kickstart your journey of learning AI
 
-* [Link to complete recording](https://www.youtube.com/watch?v=0TvA0B2Jx3k)
+* [Link to full recording](https://www.youtube.com/watch?v=0TvA0B2Jx3k)
 
 
 ### Live Breakthrough Showcase Session
@@ -82,7 +85,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Akhil Sai Ram Chennareddy from India
 
 * [Glimpses of demo presented](https://youtu.be/rtP8RmoAaCw)
-* [Full recording of this showcase](https://www.youtube.com/watch?v=LRu5v7FeJMg)
+* [Full recording of the showcase](https://www.youtube.com/watch?v=LRu5v7FeJMg)
 
 
 **How I created an autonomous cleaning robot**
@@ -90,6 +93,7 @@ Demo of latest breakthroughs happening around the world and the people behind th
 > by Altanai Bisht from India
 
 * [Glimpses of demo presented](https://youtu.be/WJ9RQDVq8tY)
+* [Full recording of the showcase](https://youtu.be/3yHVYeKUh_Y)
 
 
 **How we created a device that improves brain functions**
